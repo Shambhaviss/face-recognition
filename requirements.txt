@@ -1,7 +1,4 @@
 
 numpy
+opencv-python
 scikit-learn
-jupyter
-pandas
-matplotlib
-pillow
